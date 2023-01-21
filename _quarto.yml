@@ -3,7 +3,7 @@ project:
   output-dir: docs/
 
 website:
-  title: "mattmajestic.io-dev"
+  title: "mattmajestic.io"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,9 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme:
+      light: flatly
+      dark: darkly
     toc: true
 
 editor: visual
