@@ -1,11 +1,5 @@
 ---
-title: "mattmajestic.io-dev"
+title: "Matt Majestic Portfolio"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Check out my latest `OpenAI Streamlit` App hosted on Google Cloud <https://openai-streamlit.app>.

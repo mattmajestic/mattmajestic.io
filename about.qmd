@@ -2,8 +2,5 @@
 title: "About"
 ---
 
-About this site
+Hey, I'm Matt.  I build data products in the form of apps + apis in cloud environments to help businesses make better decisions.
 
-```{r}
-1 + 1
-```
